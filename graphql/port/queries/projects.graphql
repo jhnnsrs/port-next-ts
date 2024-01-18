@@ -1,0 +1,6 @@
+query ListPods {
+  pods {
+    podId
+    id
+  }
+}
